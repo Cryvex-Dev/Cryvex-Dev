@@ -1,6 +1,6 @@
 # 💻 Cryvex Dev
 
-Welcome to the official **Cryvex Dev** repository — a centralized development environment and toolkit managed by **Cryvex d.o.o.**  
+Welcome to the official **Cryvex Dev** repository — a centralized development environment and toolkit managed by **Cryvex**  
 This repository serves as the backbone of internal infrastructure, automation, software tools, and server management scripts across all Cryvex-backed systems and services.
 
 ## 🚀 About Cryvex Dev
@@ -52,18 +52,16 @@ To request access or propose changes:
 
 ## 📄 License
 
-This project is © Cryvex d.o.o. 2025 — All rights reserved.  
-Unauthorized use, modification, or redistribution is strictly prohibited unless explicitly granted.
+This project was created by Cryvex
 
 ## 📞 Contact
 
-- 🌐 Website: [https://cryvex.xyz](https://cryvex.xyz)  
-- 📧 Email: dev@cryvex.xyz
-- 🛡️ Security Contact: contact@cryvex.xyz  
-- 🧠 Project Lead: Maj, Maj
+- 🌐 Website: [https://cryvex.dev](https://cryvex.dev)  
+- 📧 Email: contact@cryvex.dev  
+- 🧠 Project Lead: Maj P., Maj K.
 
 ## 📝 Copyright
 
-© 2025 Cryvex d.o.o. All rights reserved.  
-This repository, including all code, configurations, assets, and documentation, is the intellectual property of Cryvex d.o.o.  
+© 2025 Cryvex All rights reserved.  
+This repository, including all code, configurations, assets, and documentation, is the intellectual property of Cryvex 
 Unauthorized reproduction, distribution, public deployment, or modification is strictly forbidden. All access and usage must be explicitly granted and comply with internal policies.
